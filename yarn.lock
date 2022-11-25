@@ -1412,10 +1412,10 @@
   dependencies:
     prosemirror-state "^1.3.4"
 
-"@tiptap/extension-image@^2.0.0-beta.25":
-  version "2.0.0-beta.27"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-image/-/extension-image-2.0.0-beta.27.tgz#62152240cfa7ead03080c38485c1ebda4a603d18"
-  integrity sha512-kdJ7V39yNdVWUco/RBe7WgvFevd81l+pU6+Je9HpelqBBP953wDttzLMuAWQB4AeLv9WhKSlORHiFv2SKsV5NA==
+"@tiptap/extension-image@^2.0.0-beta.203":
+  version "2.0.0-beta.203"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-image/-/extension-image-2.0.0-beta.203.tgz#35752bc6952ed08413852c6f1b236a86df6eac64"
+  integrity sha512-Oi3WBtWTkKjn3Abz/1nc4MuBtTnaFkF+eiNe9LVc7ro+GMkzRzAXYo+KZsZjOnss5Gzu1lTefgdwdNgfC6rvPQ==
 
 "@tiptap/extension-italic@^2.0.0-beta.26":
   version "2.0.0-beta.26"
